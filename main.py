@@ -1,5 +1,6 @@
 def main():
-    print("Hello from agenticai10jun!")
+    print("Hello from Agent Devs!")
+    print("Day 04 git")
 
 
 if __name__ == "__main__":
