@@ -7,4 +7,16 @@ requires-python = ">=3.14"
 dependencies = [
     "fastapi>=0.136.3",
     "requests>=2.34.2",
+    "openai",
+    "groq",
+    "anthropic",
+    "huggingface_hub",
+    "tiktoken",
+    "python-dotenv",
+    "ipykernel",
+    "google-genai>=2.10.0",
+    "pydantic>=2.13.4",
+    "protobuf>=7.35.1",
+    "proto-plus>=1.28.0",
+    "typing-extensions>=4.15.0",
 ]
