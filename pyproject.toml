@@ -15,7 +15,7 @@ dependencies = [
     "python-dotenv",
     "ipykernel",
     "google-genai>=2.10.0",
-    "pydantic>=2.13.4",
+    "pydantic[email]>=2.13.4",
     "protobuf>=7.35.1",
     "proto-plus>=1.28.0",
     "typing-extensions>=4.15.0",
